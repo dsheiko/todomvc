@@ -1,5 +1,9 @@
 # ![TodoMVC](media/logo.png)
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+> WARNING - THIS PROJECT IS NO LONGER MAINTAINED!!!
+
 > Helping you select an MV\* framework
 
 ### [Website](http://todomvc.com)&nbsp;&nbsp;&nbsp;&nbsp;[Blog](http://blog.tastejs.com)&nbsp;&nbsp;&nbsp;&nbsp;[TasteJS](http://tastejs.com)
